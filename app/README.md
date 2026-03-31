@@ -3,8 +3,7 @@
 A comprehensive, production-ready gift card trading platform with full backend integration, real-time notifications, AI-powered verification, and advanced admin controls.
 
 ## 🚀 Live Demo
-**Frontend URL:** https://pjuxelvk2o7xa.ok.kimi.link
-
+**Frontend URL:** https://cardvault-png.github.io/cardvault/
 ## ✨ Features Implemented
 
 ### 🔐 Authentication & Security
